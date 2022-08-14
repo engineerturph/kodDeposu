@@ -1,0 +1,21 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\T\OneDrive\Masaüstü\CODING DOC\C\CLionProject" -B "C:\Users\T\OneDrive\Masaüstü\CODING DOC\C\CLionProject\cmake-build-debug"
+CMake Error: Could not find cmake module file: CMakeDeterminesayanaCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_sayana_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_sayana_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/T/OneDrive/Masaüstü/CODING DOC/C/CLionProject/cmake-build-debug/CMakeFiles/3.22.3/CMakesayanaCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_sayana_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_sayana_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakesayanaInformation.cmake
+CMake Error: CMAKE_sayana_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/T/OneDrive/Masaüstü/CODING DOC/C/CLionProject/cmake-build-debug/CMakeFiles/CMakeOutput.log".

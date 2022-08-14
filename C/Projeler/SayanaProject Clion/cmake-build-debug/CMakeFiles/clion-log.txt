@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\T\OneDrive\Masaüstü\CODING DOC\C\CLionProject Select CMakeLists.txt

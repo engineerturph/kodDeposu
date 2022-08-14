@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="CLionProject" targetName="CLionProject" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6c7b1ba-f65f-4e14-9e08-b29b43f87393" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="291oyo1eirvStBYVaqHm4zhU2Ku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.loaded.for.project&quot;: &quot;true&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="CLionProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProject" TARGET_NAME="CLionProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProject" RUN_TARGET_NAME="CLionProject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c7b1ba-f65f-4e14-9e08-b29b43f87393" name="Changes" comment="" />
+      <created>1652290209586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652290209586</updated>
+      <workItem from="1652290211320" duration="40000" />
+      <workItem from="1652290261898" duration="7000" />
+      <workItem from="1652294770431" duration="3147000" />
+      <workItem from="1652367065068" duration="1000" />
+      <workItem from="1652388346957" duration="7553000" />
+      <workItem from="1652421989913" duration="2876000" />
+      <workItem from="1652463672868" duration="20187000" />
+      <workItem from="1652878104673" duration="2856000" />
+      <workItem from="1652883482302" duration="838000" />
+      <workItem from="1652886829462" duration="3037000" />
+      <workItem from="1652930026849" duration="22367000" />
+      <workItem from="1653030319838" duration="229000" />
+      <workItem from="1653039818050" duration="991000" />
+      <workItem from="1653044150561" duration="3214000" />
+      <workItem from="1653052349839" duration="357000" />
+      <workItem from="1653147565015" duration="8240000" />
+      <workItem from="1653220937661" duration="312000" />
+      <workItem from="1653230836291" duration="3275000" />
+      <workItem from="1653301448637" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

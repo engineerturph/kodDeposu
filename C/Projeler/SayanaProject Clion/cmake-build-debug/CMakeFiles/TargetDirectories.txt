@@ -1,0 +1,3 @@
+C:/Users/T/OneDrive/Masaüstü/CODING DOC/C/CLionProject/cmake-build-debug/CMakeFiles/CLionProject.dir
+C:/Users/T/OneDrive/Masaüstü/CODING DOC/C/CLionProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/T/OneDrive/Masaüstü/CODING DOC/C/CLionProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
